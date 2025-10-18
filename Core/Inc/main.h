@@ -59,14 +59,8 @@ void Error_Handler(void);
 /* Private defines -----------------------------------------------------------*/
 #define B1_Pin GPIO_PIN_13
 #define B1_GPIO_Port GPIOC
-#define LED_B_Pin GPIO_PIN_1
-#define LED_B_GPIO_Port GPIOA
 #define VIBRATION_IN_Pin GPIO_PIN_2
 #define VIBRATION_IN_GPIO_Port GPIOA
-#define LED_R_Pin GPIO_PIN_0
-#define LED_R_GPIO_Port GPIOB
-#define LED_G_Pin GPIO_PIN_1
-#define LED_G_GPIO_Port GPIOB
 #define TMS_Pin GPIO_PIN_13
 #define TMS_GPIO_Port GPIOA
 #define TCK_Pin GPIO_PIN_14
